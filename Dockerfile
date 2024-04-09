@@ -1,4 +1,4 @@
-FROM python:3.11.9-alpine3.19
+FROM python:3.8.19-alpine3.18
 LABEL maintainer = "bhutanpythoncoder.com"
 
 ENV PYTHONBUFFERED 1

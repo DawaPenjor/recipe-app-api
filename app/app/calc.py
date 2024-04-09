@@ -2,10 +2,13 @@
 '''
 Calculator functions
 '''
+# noqa
+
 
 def addition(x, y):
     """adds two numbers"""
     return x+y
+
 
 def subtract(x, y):
     """subtract two numbers"""
